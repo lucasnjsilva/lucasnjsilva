@@ -11,7 +11,7 @@
 <h3> Hey, </h3>
   Meu nome é Lucas Nathan e sou apaixonado pelo desenvolvimento web e mobile. ❤
 
-- 💼 **Trabalho**: Sou estagiário na **[Vende Moda](https://vendemoda.com.br/)**
+- 💼 **Trabalho**: Atualmente trabalhando em projetos pessoais, e atuando como freelancer.
 - 💻 **Tecnologias:** Node.js, Docker, Git, MySQL, PostgreSQL, MongoDB, React, React Native e sempre em busca de aprender mais!
 - 📚 **Acadêmico:** Cursando Ciência da Computação na **[UniFavip WYDEN](https://www.wyden.com.br/unifavip)** e participante do Bootcamp GoStack, da **[Rocketseat](https://rocketseat.com.br/)**.
 
